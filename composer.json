@@ -1,0 +1,22 @@
+{
+    "name": "infex/tesseract-bundle",
+    "description": "TesseractBundle: a wrapper of the Tesseract OCR engine for Symfony",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tri Ha",
+            "email": "trihtm95@gmail.com",
+            "homepage": "https://github.com/trihtm"
+        }
+    ],
+    "keywords": [ "ocr", "optical character recognition", "scan", "text recognition", "tesseract" ],
+    "homepage": "https://github.com/infexvietnam/tesseract-bundle",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "autoload": {
+        "psr-4": {
+            "Infex\\TesseractBundle\\": "src/"
+        }
+    }
+}

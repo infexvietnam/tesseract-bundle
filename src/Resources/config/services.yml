@@ -1,0 +1,6 @@
+services:
+    infex_tesseract.tesseract_service:
+        class: Infex\TesseractBundle\Service\Tesseract
+        arguments:
+            - "%infex_tesseract.path%"
+        autowire: true
