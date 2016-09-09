@@ -13,7 +13,7 @@ installation and adding language support, see Tesseract's [README](https://githu
 Then install this library, which is available on [Packagist](http://packagist.org/packages/infexvietnam/tesseract-bundle),
 through [Composer](http://getcomposer.org/):
 
-    $ composer require infex/tesseract-bundle
+    $ composer require infexvietnam/tesseract-bundle
     
 Config tesseract's path:
 
