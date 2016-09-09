@@ -1,5 +1,5 @@
 {
-    "name": "infex/tesseract-bundle",
+    "name": "infexvietnam/tesseract-bundle",
     "description": "TesseractBundle: a wrapper of the Tesseract OCR engine for Symfony",
     "type": "library",
     "license": "MIT",
